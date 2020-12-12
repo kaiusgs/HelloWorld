@@ -1,3 +1,4 @@
+
 2020年12月工作日报
 
 ******************************
@@ -6,7 +7,7 @@
 
 今天已做的工作：
 1、ArcGIS使用格网切割OSM建筑物数据。
-2、Bigemap下载数据，软件依然有故障。
+2、Bigemap下载数据，瓦片加载不全，下载数据有问题。
 3、读了一篇论文：FULLY CONVOLUTIONAL SIAMESE NETWORKS FOR CHANGE DETECTION。
 4、登录了石老师服务器。
 
@@ -15,8 +16,24 @@
 2、Bigemap下载数据。
 3、读一篇论文。
 4、传输文件至服务器，尝试运行python文件。
+5、上吴恩达网课。
 
 ******************************
 
 12月12日
+
+今天已做的工作：
+1、ArcGIS使用格网切割OSM建筑物数据。
+2、Bigemap下载数据，无法查看历史影像。
+3、读了一篇论文：Siamese_Network_with_Multi_level_features__for_Patch_based_change_detection_in_Satellite_Imagery。
+4、成功传输文件至服务器，成功安装python，成功运行python文件。
+
+明天要做的工作：
+1、ArcGIS使用格网切割OSM建筑物数据。
+2、Bigemap下载数据。
+3、读一篇论文。
+4、在服务器上安装tensorflow，尝试使用GPU运行leNet-5.py。
+5、上吴恩达网课。
+
+******************************
 
